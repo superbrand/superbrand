@@ -1,3 +1,5 @@
+![](superbrand.png)
+
 ## Superbrand - Open Source Digital Asset Management System
 
 Superbrand is a powerful and flexible digital asset management system that makes it easy to manage and distribute your digital assets. With built-in support for resumable asset uploading, transcoding workflows, and a built-in CDN, Superbrand is the perfect solution for businesses, organizations, and individuals who need to manage and distribute digital assets at scale.
