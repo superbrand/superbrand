@@ -2,9 +2,16 @@
 
 ## Superbrand - Open Source Digital Asset Management System
 
-Superbrand is a powerful and flexible digital asset management system that makes it easy to manage and distribute your digital assets. With built-in support for resumable asset uploading, transcoding workflows, and a built-in CDN, Superbrand is the perfect solution for businesses, organizations, and individuals who need to manage and distribute digital assets at scale.
+Superbrand is a powerful and flexible digital asset management system that makes it easy to manage and distribute your digital assets. With built-in support for resumable asset uploading, transcoding workflows, a built-in CDN, and a GraphQL API, Superbrand is the perfect solution for businesses, organizations, and individuals who need to manage and distribute digital assets at scale.
 
 ![](screenshot.png)
+
+### Built with
+- NextJS
+- Hasura
+- PostgreSQL
+- Express.js
+- Node.js
 
 ### Features
 - **Resumable Asset Uploading**: Superbrand allows you to upload assets in a resumable way, meaning that if the upload is interrupted for any reason, it can be resumed from where it left off. This ensures that your assets are uploaded quickly and reliably, even in low-bandwidth environments.
