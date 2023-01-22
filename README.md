@@ -25,4 +25,4 @@ If you need help getting started or have any questions, feel free to open an iss
 We welcome any contributions, whether it's a bug report, a new feature, or a pull request. Please open an issue or create a pull request if you would like to contribute.
 
 ### License
-Superbrand is released under the [MIT License](https://opensource.org/licenses/MIT), which means that it is free to use, modify, and distribute.
+Superbrand is released under the [AGPL License](https://opensource.org/licenses/AGPL-3.0), which means that it is free to use, modify, and distribute.
