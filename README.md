@@ -4,6 +4,8 @@
 
 Superbrand is a powerful and flexible digital asset management system that makes it easy to manage and distribute your digital assets. With built-in support for resumable asset uploading, transcoding workflows, a built-in CDN, and a GraphQL API, Superbrand is the perfect solution for businesses, organizations, and individuals who need to manage and distribute digital assets at scale.
 
+<p align="center"><a href="https://superbrandapp.slack.com/">Join Our Slack</a></p>
+
 ![](screenshot.png)
 
 ### Built with
